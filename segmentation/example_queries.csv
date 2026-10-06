@@ -1,0 +1,13 @@
+object,bounding_box
+car
+bicycle,"781, 775, 2662, 2153"
+pole,
+pole,"600, 300, 1200, 1000"
+bikelane,
+crosswalk,
+traffic_light,
+traffic_sign_front,
+bus,
+truck,
+zebra,
+person,
